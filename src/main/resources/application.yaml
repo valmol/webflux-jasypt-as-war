@@ -1,0 +1,7 @@
+app:
+  password: ENC(V2t+H3nUdADeSwvpo0cJelWQ/SoPcVqW)
+
+jasypt:
+  encryptor:
+    password: password
+
